@@ -11,6 +11,11 @@ gsgklajjgqjg
 fasfasf
 gsgklajjgqjg
 fasfasf
+<<<<<<< HEAD
+=======
+fffffffffffffffffff
+fffffffffffffffffff
+>>>>>>> develop
 gsgklajjgqjg
 fasfasf
 gsgklajjgqjg
